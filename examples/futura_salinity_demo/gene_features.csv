@@ -1,0 +1,5 @@
+gene_id,orthogroup,kaks,pnps,snp_density,stress_log2fc,te_proximity,gene_family_size,scenario
+GeneA,OG0001,0.25,0.20,0.3,2.1,false,1,salinity
+GeneB,OG0002,1.35,1.10,1.4,3.2,true,5,salinity
+GeneC,OG0003,0.85,0.70,0.8,0.4,false,2,salinity
+GeneD,OG0004,,0.30,0.2,4.5,true,8,salinity

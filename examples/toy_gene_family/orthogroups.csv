@@ -1,0 +1,6 @@
+orthogroup,species,gene_id,sequence_id,notes
+OG0001,Arabidopsis_thaliana,AT_CAMTA1,AT_CAMTA1,CAMTA-like
+OG0001,Oryza_sativa,OS_CAMTA1,OS_CAMTA1,CAMTA-like
+OG0001,Marchantia_polymorpha,MP_CAMTA1,MP_CAMTA1,CAMTA-like
+OG0002,Arabidopsis_thaliana,AT_CML1,AT_CML1,CML-like
+OG0002,Oryza_sativa,OS_CML1,OS_CML1,CML-like

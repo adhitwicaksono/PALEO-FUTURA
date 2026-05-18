@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "PALEO-FUTURA: AI-assisted evolutionary genomics framework for ancestral inference and future evolutionary forecasting"
+message: "If you use this software or concept, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Wicaksono"
+    given-names: "Adhityo"
+abstract: "PALEO-FUTURA is an early-stage framework for connecting ancestral evolutionary inference with scenario-based future evolutionary forecasting."
+repository-code: "https://github.com/YOUR_USERNAME/paleo-futura"
+license: "NOASSERTION"
+version: "0.1.0"
+date-released: "2026-05-18"
