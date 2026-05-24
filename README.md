@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/paleo_futura_banner.png" alt="Paleo-Futura project banner" width="100%">
+</p>
+
 # PALEO-FUTURA
 
 **AI-assisted evolutionary genomics framework for ancestral inference and future evolutionary forecasting**
